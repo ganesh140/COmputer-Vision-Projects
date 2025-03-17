@@ -1,2 +1,2 @@
-# COmputer-Vision-Projects
+# Cmputer-Vision-Projects
 My Computer Vision projects
